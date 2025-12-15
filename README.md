@@ -65,3 +65,17 @@ The dataset used is the **Titanic passenger dataset**, which contains informatio
 | First Class  | 0.63          |
 | Second Class | 0.47          |
 | Third Class  | 0.24          |
+
+**Total Survivors and Non-Survivors:**
+
+- **Total Survivors:** 342  
+- **Total Non-Survivors:** 549
+
+---
+
+## 🧩 Key Insights
+- First class passengers had the **highest survival rate**.  
+- Female passengers were **more likely to survive** than males.  
+- Families with more members paid **less fare per person** on average.  
+
+---
